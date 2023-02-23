@@ -6,12 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 As a Software Engineering student at the Schulich School of Engineering, I am constantly learning and improving my skills in programming and problem-solving. I have a strong foundation in various programming languages and am always looking for opportunities to apply my knowledge to real-world projects. I am passionate about using technology to create innovative solutions and make a positive impact on society.
 
-* 🌍  I'm based in Calgary, Alberta
-* ✉️  You can contact me at [parsa.kargari@ucalgary.ca](mailto:parsa.kargari@ucalgary.ca)
-* 🧠  I'm learning Django, React and others
-* 🤝  I'm open to collaborating on any Software Projects!
-* ⚡  I solve puzzles and Rubik's Cubes :)
-* 💬  I'd love to chat, shoot me a message!
+*   I'm based in Calgary, Alberta
+*   You can contact me at [parsa.kargari@ucalgary.ca](mailto:parsa.kargari@ucalgary.ca)
+*   I'm learning Django, React and others
+*   I'm open to collaborating on any Software Projects!
+*   I solve puzzles and Rubik's Cubes :)
+*   I'd love to chat, shoot me a message!
 
 ### Skills
 
