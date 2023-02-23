@@ -11,6 +11,7 @@ As a Software Engineering student at the Schulich School of Engineering, I am co
 * 🧠  I'm learning Django, React and others
 * 🤝  I'm open to collaborating on any Software Projects!
 * ⚡  I solve puzzles and Rubik's Cubes :)
+* 💬  I'd love to chat, shoot me a message!
 
 ### Skills
 
@@ -31,6 +32,5 @@ As a Software Engineering student at the Schulich School of Engineering, I am co
 
 <p align="left"> <a href="https://discord.com/users/NamerTag#5454" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ParsaKargari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/parsa-kargari-9603501b3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 <a href="https://github.com/ParsaKargari" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaKargari&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
