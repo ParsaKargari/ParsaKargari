@@ -4,14 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 2nd Year SENG Student
 ---------------------
 
-As a Software Engineering student at the Schulich School of Engineering, I am constantly learning and improving my skills in programming and problem-solving. I have a strong foundation in various programming languages and am always looking for opportunities to apply my knowledge to real-world projects. I am passionate about using technology to create innovative solutions and make a positive impact on society.
+I'm Parsa! I'm a 2nd year Software Engineering student based in Calgary, Alberta. I love using technology to create innovative solutions that make a positive impact on society. I'm currently learning various aspects of Software Developement, feel free to check out my projects or contact me!
 
 *   I'm based in Calgary, Alberta
-*   You can contact me at [parsa.kargari@ucalgary.ca](mailto:parsa.kargari@ucalgary.ca)
-*   I'm learning Django, React and others
+*   You can contact me at [parsa.kargari@ucalgary.ca](mailto:parsa.kargari@ucalgary.ca), I'd love to chat!
 *   I'm open to collaborating on any Software Projects!
-*   I solve puzzles and Rubik's Cubes :)
-*   I'd love to chat, shoot me a message!
+
 
 ### Skills
 
